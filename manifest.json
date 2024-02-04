@@ -6,7 +6,7 @@
   "display": "fullscreen",
   "orientation": "",
   "scope": "/",
-  "start_url": "/dashboard/dash",
+  "start_url": "/login",
   "icons": [
     {
       "src": "icon-72x72.png",
